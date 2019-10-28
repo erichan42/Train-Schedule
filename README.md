@@ -1,7 +1,7 @@
 # HW - Train Schedule
 
 ## Live Link
-erichan42.github.io/Train-Schedule/
+[erichan42.github.io/Train-Schedule/]
 
 ## Instructions
 - Administrators can input train details that will be stored in Firebase
@@ -9,7 +9,7 @@ erichan42.github.io/Train-Schedule/
 
 ## Technologies Used
 - HTML
-- Javascript (Jquery + Moment.js)
+- Javascript (jQuery + Moment.js)
 - CSS (Bootstrap)
 - Firebase
 
