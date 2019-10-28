@@ -1,7 +1,7 @@
 # HW - Train Schedule
 
 ## Live Link
-[erichan42.github.io/Train-Schedule/]
+[https://erichan42.github.io/Train-Schedule/]
 
 ## Instructions
 - Administrators can input train details that will be stored in Firebase
